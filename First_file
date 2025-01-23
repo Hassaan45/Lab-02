@@ -6,3 +6,6 @@ Roll_no = input("What Is your Roll no: ")
 // Giving Output
 print("Your name: " + name)
 print("Your Roll no:" + Roll_no)
+
+
+print("' Favorite Subjects: Urdu,English, Math, physics, Chemistry, THQ, Pak Study)
