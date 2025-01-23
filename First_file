@@ -1,0 +1,8 @@
+// Taking Input
+name = input("What is your name: ")
+Roll_no = input("What Is your Roll no: ")
+
+
+// Giving Output
+print("Your name: " + name)
+print("Your Roll no:" + Roll_no)
